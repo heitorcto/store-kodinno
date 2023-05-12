@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button-navbar {
+        @apply text-base font-semibold p-3 cursor-pointer rounded-sm transition duration-200;
+    }
+
+    .button-navbar:hover {
+        @apply bg-white text-black -translate-y-1;
+    }
+}
