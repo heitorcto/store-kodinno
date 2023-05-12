@@ -1,5 +1,5 @@
-# nba-store-front
-Front NBA store
+# store-kodinno
+Front kodinno-produto store
 
 ---
 
